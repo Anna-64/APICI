@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/e9k26c90fv5bxowj/branch/main?svg=true)](https://ci.appveyor.com/project/Anna-64/apici/branch/main)
